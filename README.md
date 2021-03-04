@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <details>
 <summary>📊 Github Stats</summary>
 
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=backslashflutter1&theme=vue) ![BackslashFlutter's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=backslashflutter&show_icons=true&line_height=21&show_icons=true&theme=vue)
+![Most used language](https://github-readme-stats.vercel.app/api?username=backslashflutter) ![BackslashFlutter's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=backslashflutter&show_icons=true&line_height=21&show_icons=true&theme=vue)
 
 </details>
 <p > 
